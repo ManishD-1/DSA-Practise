@@ -20,6 +20,6 @@ public class a {
                break;
            }
        }
-       System.out.print(ind1 + " " + ind2);
+       System.out.print(ind1 + " " + ind2+ " ");
     }
 }
